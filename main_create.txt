@@ -15,6 +15,7 @@ branch main rebase 3
 
 branch main rebase 4
 
+<<<<<<< HEAD
 main 1
 branch main rebase 3
 
@@ -22,3 +23,6 @@ branch main rebase 4
 
 main 2
 main 3
+=======
+main 1
+>>>>>>> 61e109c (main 1)
