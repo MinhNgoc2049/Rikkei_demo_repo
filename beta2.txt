@@ -1,1 +1,3 @@
-aaago
+aaa
+
+stash test
