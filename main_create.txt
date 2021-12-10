@@ -21,4 +21,3 @@ branch main rebase 3
 branch main rebase 4
 
 main 2
-main 3
