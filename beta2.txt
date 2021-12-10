@@ -1,0 +1,5 @@
+aaa
+
+stash test
+
+tesst cherry
