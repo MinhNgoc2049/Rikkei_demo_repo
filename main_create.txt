@@ -6,20 +6,6 @@ branch main rebase
 
 branch main rebase 2
 
-
-branch beta rebase 1
-
-branch beta rebase 2
-branch main rebase 3
 branch main rebase 3
 
 branch main rebase 4
-
-main 1
-branch main rebase 3
-
-branch main rebase 4
-
-main 2
-main 3
-main 1
