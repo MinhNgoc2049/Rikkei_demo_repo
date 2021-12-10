@@ -1,13 +1,1 @@
-file create by branch main
-test file
-aaaaa
-
-branch main rebase
-
-branch main rebase 2
-
-branch main rebase 3
-
-branch main rebase 4
-
-main 2
+main 1
